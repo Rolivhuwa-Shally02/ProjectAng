@@ -1,0 +1,22 @@
+{
+    "Employee": [
+      { "id": 1,
+       "full Name": "Mr Andrew Mixamo",
+        "email": "Mixamo@gmail.com",
+        "address": "CBD, Johannesburg, 2001",
+        "contact": "+27 834974887",
+        "department": "JavaDev"
+    },
+    {"id": 1,
+       "full Name": "Mr Abe Malibo",
+        "email": "Malibo@gmail.com",
+        "address": "CBD, Johannesburg, 2001",
+        "contact": "+27 824984488",
+        "department": "JavaDev"
+    }
+    ],
+    "comments": [
+      { "id": 1, "body": "some comment", "postId": 1 }
+    ],
+    "profile": { "name": "typicode" }
+  }
